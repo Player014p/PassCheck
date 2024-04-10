@@ -28,4 +28,5 @@ Y para animaciones, puedes usar:
 
 ¡Diviértete experimentando con Markdown para personalizar tu README.md!
 
-[![Texto alternativo]([ruta/a/la/imagen.png](https://cdn.discordapp.com/attachments/1149892505605767199/1227757761459130378/b7uYZJI.png?ex=66299184&is=66171c84&hm=8b34575da671e0842c95cfd14c54ea9daed1bd66f4f750b98623a01ecf715bd1&))]([https://www.tu-pagina.com](https://tecito.app/lucasalexis))
+[![Texto alternativo](https://cdn.discordapp.com/attachments/1149892505605767199/1227757761459130378/b7uYZJI.png?ex=66299184&is=66171c84&hm=8b34575da671e0842c95cfd14c54ea9daed1bd66f4f750b98623a01ecf715bd1&)]([https://www.tu-pagina.com](https://tecito.app/lucasalexis))
+
