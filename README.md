@@ -28,4 +28,4 @@ Y para animaciones, puedes usar:
 
 ¡Diviértete experimentando con Markdown para personalizar tu README.md!
 
-[¡Ir a la página!](https://www.tu-pagina.com)
+[![Apoyar con un Tecito](https://cdn.tecito.app/static/bmc-button.png)](https://www.tu-pagina.com)
