@@ -33,9 +33,23 @@ Y para animaciones, puedes usar:
   50% {background-color: blue;}
   100% {background-color: green;}
 }
+
+/* Estilos del botón */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #3b82f6;
+  color: #FFF;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+/* Cambio de color al pasar el ratón */
+.button:hover {
+  background-color: #2563eb;
+}
 </style>
 
-¡Diviértete experimentando con Markdown para personalizar tu README.md!
-
-```javascript
-<script type="text/javascript" src="https://cdn.tecito.app/static/js/button.v1.3.js" data-name="bmc-button" data-slug="lucasalexis" data-color="#3b82f6" data-emoji="" data-font="Arial" data-text="Apoya el contenido" data-outline-color="#000" data-font-color="#FFF" data-tecito-color="#FFF"></script>
+<!-- Botón que te lleva a una página al hacer clic -->
+<a class="button" href="https://www.tu-pagina.com" target="_blank">Ir a la página</a>
