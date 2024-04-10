@@ -28,5 +28,6 @@ Y para animaciones, puedes usar:
 
 ¡Diviértete experimentando con Markdown para personalizar tu README.md!
 
-[![Texto alternativo](tecito.png)]([https://www.tu-pagina.com](https://tecito.app/lucasalexis))
+[![Texto alternativo](tecito.png)](https://tecito.app/lucasalexis)
+
 
